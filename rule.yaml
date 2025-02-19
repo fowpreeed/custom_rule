@@ -1,3 +1,2 @@
-# NAME: CustomRules
 payload:
-  - DOMAIN-SUFFIX,relingo.net
+  - DOMAIN-SUFFIX,relingo.net,🎯 国内流量
